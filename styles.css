@@ -1,0 +1,58 @@
+body {
+    font-family: verdana;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.crimson {
+    background-color: crimson;
+}
+
+.firebrick {
+    background-color: firebrick;
+}
+
+.salmon {
+    background-color: salmon;
+}
+
+
+.olive {
+    background-color: olive;
+}
+
+.mediumSeaGreen {
+    background-color: mediumSeaGreen;
+}
+
+
+.dodgerBlue {
+    background-color: dodgerBlue;
+}
+
+.powderBlue {
+    background-color: powderBlue;
+}
+
+section {
+    border: solid 1px black;
+    margin: 1rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 0.5rem;
+}
