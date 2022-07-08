@@ -56,3 +56,9 @@ ul {
 li {
     padding: 0.5rem;
 }
+
+.special {
+    border: solid 3px black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
